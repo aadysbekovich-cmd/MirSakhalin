@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Агентство услуг МИР - Поддержка мигрантов",
+  "description": "Юридический центр консультирования и сопровождения трудовых мигрантов из стран СНГ в Южно-Сахалинске",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
